@@ -8,7 +8,7 @@ private double side3;
 
 Triangle(double side_a, double side_b, double side_c)
 {
-	side1=side_a;
+	side1=side_b;
 	side2=side_b;
 	side3=side_c;
 }
